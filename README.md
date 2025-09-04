@@ -50,3 +50,14 @@ Results:
 EDA reveals insights into customer activity and spend.
 Predictive models estimate customer lifetime value with measurable accuracy.
 Results can be used to guide retention and marketing strategies.
+
+Outputs:
+<img width="1316" height="2241" alt="image" src="https://github.com/user-attachments/assets/af5ee499-b615-4ad5-b5f4-01903f5e7d2b" />
+
+<img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/84cedd1c-7abe-4a1e-a298-60adf616e40d" />
+
+<img width="548" height="547" alt="image" src="https://github.com/user-attachments/assets/99ffd2c0-913b-41b1-a815-0c3dec29e3c1" />
+
+<img width="579" height="455" alt="image" src="https://github.com/user-attachments/assets/96ae8ff7-3b8d-4928-9ec7-04a5c6b7806b" />
+
+<img width="1389" height="2790" alt="image" src="https://github.com/user-attachments/assets/3bc1d1fe-157b-4b37-80b6-b30ef35f908e" />
