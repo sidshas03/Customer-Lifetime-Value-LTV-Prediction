@@ -43,33 +43,10 @@ The dataset includes the following fields (sample overview):
   - numpy  
   - matplotlib  
   - seaborn  
-  - scikit-learn  
+  - scikit-learn
 
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-
-## Run the Notebook
-
-Clone this repository:
-
-```bash
-git clone https://github.com/your-username/ltv-prediction.git
-cd ltv-prediction
-
-
-Start Jupyter Notebook:
-
-jupyter notebook
-
-
-Open LTV_Prediction_Python_CaseStud.ipynb and run all cells.
-
+    
 Results:
-
 EDA reveals insights into customer activity and spend.
-
 Predictive models estimate customer lifetime value with measurable accuracy.
-
 Results can be used to guide retention and marketing strategies.
